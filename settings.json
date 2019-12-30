@@ -1,0 +1,24 @@
+{
+    "explorer.confirmDelete": false,
+    "breadcrumbs.enabled": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "emmet.triggerExpansionOnTab": true,
+    "javascript.implicitProjectConfig.checkJs": true,
+    "git.enableSmartCommit": true,
+    "gitlens.hovers.currentLine.over": "line",
+    "gitlens.currentLine.enabled": false,
+    "gitlens.codeLens.enabled": false,
+    "gitlens.statusBar.enabled": false,
+    "[javascript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "markdown-preview-enhanced.liveUpdate": true,
+    "terminal.integrated.fontSize": 14,
+    "window.zoomLevel": 1.5,
+    "editor.fontSize": 14
+}
