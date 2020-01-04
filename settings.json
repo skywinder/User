@@ -20,5 +20,9 @@
     "markdown-preview-enhanced.liveUpdate": true,
     "terminal.integrated.fontSize": 14,
     "window.zoomLevel": 1.5,
-    "editor.fontSize": 14
+    "editor.fontSize": 14,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.codeLens": false,
+    "gitlens.codeLens.authors.enabled": false,
+    "gitlens.codeLens.recentChange.enabled": false
 }
