@@ -19,10 +19,11 @@
     },
     "markdown-preview-enhanced.liveUpdate": true,
     "terminal.integrated.fontSize": 14,
-    "window.zoomLevel": 0,
+    "window.zoomLevel": 1,
     "editor.fontSize": 14,
     "workbench.startupEditor": "newUntitledFile",
     "editor.codeLens": false,
     "gitlens.codeLens.authors.enabled": false,
-    "gitlens.codeLens.recentChange.enabled": false
+    "gitlens.codeLens.recentChange.enabled": false,
+    "workbench.editor.showTabs": false
 }
