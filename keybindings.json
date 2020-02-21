@@ -145,13 +145,5 @@
         "key": "ctrl+shift+r",
         "command": "-editor.action.refactor",
         "when": "editorHasCodeActionsProvider && editorTextFocus && !editorReadonly"
-    },
-    {
-        "key": "] ]",
-        "command": "merge-conflict.next"
-    },
-    {
-        "key": "[ [",
-        "command": "merge-conflict.previous"
     }
 ]
